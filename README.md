@@ -1,3 +1,5 @@
+# Version 1.0
+
 ![logo](./content/logo.png)
 
 Games
