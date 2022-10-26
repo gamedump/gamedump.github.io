@@ -1,4 +1,4 @@
-##### Version 1.5
+##### Version 1.6
 
 ![logo](./content/logo2.png)
 
@@ -21,4 +21,8 @@ Games
 
 - [clumsy-bird](https://gamedump.github.io/clumsy-bird/) - recreation of classic Flappy Bird.
 
+-------
+
 ###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
+
+[Mobile supported games](./mobile/README.md)
