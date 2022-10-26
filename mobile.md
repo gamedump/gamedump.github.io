@@ -1,4 +1,4 @@
-### [<<](https://gamedump.github.io/)
+## [<<](https://gamedump.github.io/)
 
 ##### Version 2.1 [What's new](./Changelog.md)
 
