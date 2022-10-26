@@ -2,7 +2,7 @@
 
 ##### Version 2.1 [What's new](./Changelog.md)
 
-![logo](./content/logo2.png)
+![logo](./content/logo-mobile.png)
 ---
 # **GAMES**
 ---
