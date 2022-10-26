@@ -4,7 +4,7 @@
 
 -------
 
-[Mobile supported games](./mobile/README.md)
+[Mobile supported games](./mobile-category.md)
 
 -------
 
