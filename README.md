@@ -2,6 +2,8 @@
 
 ![logo](./content/logo.png)
 
+-------
+
 Games
 - [simple-farming](https://gamedump.github.io/simple-farming/) - pretty bare bones game i found, fun for 2 seconds.
 
