@@ -2,5 +2,8 @@
 
 ---
 
-# What's new
+# **VERSION 2.0** / **WHAT'S NEW?**
+
+---
+
 
