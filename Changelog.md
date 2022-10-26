@@ -1,4 +1,4 @@
-[<<](https://gamedump.github.io/)
+### [<<](https://gamedump.github.io/)
 
 ---
 # **VERSION 2.1** / **WHAT'S NEW?**
