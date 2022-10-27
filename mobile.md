@@ -16,5 +16,7 @@
 
 - [hexgl](https://gamedump.github.io/hexgl/) - futuristic racing game.
 
+- [0hh1](https://gamedump.github.io/0hh1/) - logic puzzle game
+
 ---
 ###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
