@@ -11,5 +11,5 @@
 ## [MOBILE SUPPORTED GAMES](./mobile.md)
 -------
 
-###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
+###### This site is non-profit, if you are the developers of any of these games and you want it removed, please contact us on Twitter (@gamedump_site) and we'll remove the game. :)
 
