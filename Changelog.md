@@ -1,10 +1,11 @@
 ### [<<](https://gamedump.github.io/)
 
 ---
-# **VERSION 2.1** / **WHAT'S NEW?**
+# **VERSION 2.2** / **WHAT'S NEW?**
 ---
 
-- Changed logo
-- New game added: HexGL
-- Added a homepage and mobile subpage
+New Games
+- Cookie Clicker
+- 0hh1
+- Dope Wars
 
