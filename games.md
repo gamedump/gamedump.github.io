@@ -28,5 +28,6 @@
 
 - [cookie-clicker](https://gamedump.github.io/cookie-clicker/) - classic Cookie Cliker game (game created by Orteil)
 
+- [cookie-clicker](https://gamedump.github.io/dope-wars/) - sell weed and gain money
 ---
 ###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
