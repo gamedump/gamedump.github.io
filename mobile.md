@@ -14,6 +14,8 @@
 
 - [clumsy-bird](https://gamedump.github.io/clumsy-bird/) - recreation of classic Flappy Bird.
 
+- [hextris](https://gamedump.github.io/hextris/) - hexagonal puzzle game based off Tetris.
+
 - [hexgl](https://gamedump.github.io/hexgl/) - futuristic racing game.
 
 - [0hh1](https://gamedump.github.io/0hh1/) - logic puzzle game
