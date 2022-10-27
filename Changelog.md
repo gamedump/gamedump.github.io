@@ -9,3 +9,5 @@ New Games
 - 0hh1
 - Dope Wars
 
+Increased text size
+
