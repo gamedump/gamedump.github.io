@@ -30,7 +30,7 @@
 
 ### - [dope-wars](https://gamedump.github.io/dope-wars/) - sell weed and gain money
 
-### - [pacman](https://gamedump.github.io/pacman/) - classic pacman game
+### - [pacman](https://gamedump.github.io/pacman/) - not the best pacman game
 
 ### - [super-mario-bros](https://gamedump.github.io/super-mario-bros/) - classic super mario game with built in level editor
 ---
