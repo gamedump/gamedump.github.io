@@ -29,5 +29,9 @@
 ### - [cookie-clicker](https://gamedump.github.io/cookie-clicker/) - classic Cookie Cliker game (game created by Orteil)
 
 ### - [dope-wars](https://gamedump.github.io/dope-wars/) - sell weed and gain money
+
+### - [pacman](https://gamedump.github.io/pacman/) - classic pacman game
+
+### - [super-mario-bros](https://gamedump.github.io/super-mario-bros/) - classic super mario game with built in level editor
 ---
 ###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
