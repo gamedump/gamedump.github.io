@@ -33,5 +33,7 @@
 ### - [pacman](https://gamedump.github.io/pacman/) - not the best pacman game
 
 ### - [super-mario-bros](https://gamedump.github.io/super-mario-bros/) - classic super mario game with built in level editor
+
+### - [eaglercraft](https://gamedump.github.io/eaglercraft/) - an html port of minecraft 1.5.2 (multiplayer does __not__ work)
 ---
 ###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
