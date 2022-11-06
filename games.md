@@ -35,5 +35,9 @@
 ### - [super-mario-bros](https://gamedump.github.io/super-mario-bros/) - classic super mario game with built in level editor
 
 ### - [eaglercraft](https://gamedump.github.io/eaglercraft/) - an html port of minecraft 1.5.2 (multiplayer does __not__ work)
+
+### - [8ball-pool](https://gamedump.github.io/8ball-pool/) - it's 8ball pool
+
+### - [3d.city](https://gamedump.github.io/3d.city/) - similar to city skylines, build cities
 ---
 ###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
