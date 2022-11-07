@@ -41,5 +41,9 @@
 ### - [3d.city](https://gamedump.github.io/3d.city/) - similar to city skylines, build cities
 
 ### - [ns-shaft](https://gamedump.github.io/ns-shaft/) - fall down as far as you can without dying (basically doodle jump the other way round.)
+
+### - [minesweeper](https://gamedump.github.io/ns-shaft/) - math based puzzle game you probably know
+
+### - [missle-breakthrough](https://gamedump.github.io/missile-breakthrough/) - fly through obstacles and survive for as long as you can
 ---
 ###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
