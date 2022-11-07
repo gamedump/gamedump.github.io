@@ -20,6 +20,14 @@
 
 ### - [0hh1](https://gamedump.github.io/0hh1/) - logic puzzle game
 
+### - [pacman](https://gamedump.github.io/pacman/) - not the best pacman game
+
 ### - [dope-wars](https://gamedump.github.io/dope-wars/) - sell weed and gain money
+
+### - [ns-shaft](https://gamedump.github.io/ns-shaft/) - fall down as far as you can without dying (basically doodle jump the other way round.)
+
+### - [minesweeper](https://gamedump.github.io/minesweeper/) - math based puzzle game you probably know
+
+### - [missle-breakthrough](https://gamedump.github.io/missile-breakthrough/) - fly through obstacles and survive for as long as you can
 ---
 ###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
