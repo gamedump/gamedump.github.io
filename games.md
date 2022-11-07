@@ -39,5 +39,7 @@
 ### - [8ball-pool](https://gamedump.github.io/8ball-pool/) - it's 8ball pool
 
 ### - [3d.city](https://gamedump.github.io/3d.city/) - similar to city skylines, build cities
+
+### - [ns-shaft](https://gamedump.github.io/ns-shaft/) - fall down as far as you can without dying (basically doodle jump the other way round.)
 ---
 ###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
