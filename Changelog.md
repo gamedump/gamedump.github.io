@@ -1,13 +1,15 @@
 ### [<<](https://gamedump.github.io/)
 
 ---
-# **VERSION 2.2** / **WHAT'S NEW?**
+# **VERSION 2.3** / **WHAT'S NEW?**
 ---
 
 New Games
-- Cookie Clicker
-- 0hh1
-- Dope Wars
+- pacman
+- super-mario-bros
+- eaglercraft
+- 8ball-pool
+- 3d.city
 
-Increased text size
+New logo
 
