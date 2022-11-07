@@ -42,7 +42,7 @@
 
 ### - [ns-shaft](https://gamedump.github.io/ns-shaft/) - fall down as far as you can without dying (basically doodle jump the other way round.)
 
-### - [minesweeper](https://gamedump.github.io/ns-shaft/) - math based puzzle game you probably know
+### - [minesweeper](https://gamedump.github.io/minesweeper/) - math based puzzle game you probably know
 
 ### - [missle-breakthrough](https://gamedump.github.io/missile-breakthrough/) - fly through obstacles and survive for as long as you can
 ---
