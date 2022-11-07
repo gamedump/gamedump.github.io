@@ -1,6 +1,6 @@
 
 
-##### Version 2.3 [What's new](./Changelog.md)
+##### ![version](https://img.shields.io/badge/version-2.3-blue)  - [What's new](./Changelog.md)
 
 ![logo](./content/logo3.png)
 -------
