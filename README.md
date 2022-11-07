@@ -6,7 +6,7 @@
 -------
 # **HOMEPAGE**
 -------
-## ![games-icon](./content/games-icon.png) [GAMES](./games.md)
+## [GAMES](./games.md)
 
 ## [MOBILE SUPPORTED GAMES](./mobile.md)
 -------
