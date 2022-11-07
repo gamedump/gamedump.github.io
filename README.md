@@ -1,6 +1,6 @@
 
 
-##### Version 2.2 [What's new](./Changelog.md)
+##### Version 2.3 [What's new](./Changelog.md)
 
 ![logo](./content/logo3.png)
 -------
