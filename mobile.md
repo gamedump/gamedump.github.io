@@ -1,6 +1,6 @@
 ## [<<](https://gamedump.github.io/)
 
-##### Version 2.3 [What's new](./Changelog.md)
+##### ![version](https://img.shields.io/badge/version-2.3-blue) [What's new](./Changelog.md)
 
 ![logo](./content/logo-mobile2.png)
 ---
@@ -29,5 +29,7 @@
 ### - [minesweeper](https://gamedump.github.io/minesweeper/) - math based puzzle game you probably know
 
 ### - [missle-breakthrough](https://gamedump.github.io/missile-breakthrough/) - fly through obstacles and survive for as long as you can
+
+### - [particle-clicker](https://gamedump.github.io/particle-clicker/) - an incremental game about building your own particle accelerator
 ---
 ###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
