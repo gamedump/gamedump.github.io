@@ -51,5 +51,7 @@
 ### - [the-house](https://gamedump.github.io/the-house/) - a simple but interesting puzzle/adventure game
 
 ### - [particle-clicker](https://gamedump.github.io/particle-clicker/) - an incremental game about building your own particle accelerator
+
+### - [maze3D](https://gamedump.github.io/maze3D/) - a 3d maze you can walk around using arrow keys
 ---
 ###### This site is non-profit, if you are the developers in any of these games and you want it removed, please contact us on Twitter and we'll remove the game. :)
