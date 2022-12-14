@@ -1,15 +1,12 @@
 ### [<<](https://gamedump.github.io/)
 
 ---
-# **VERSION 2.3** / **WHAT'S NEW?**
+# **VERSION 2.4** / **WHAT'S NEW?**
 ---
 
 New Games
-- pacman
-- super-mario-bros
-- eaglercraft
-- 8ball-pool
-- 3d.city
+- maze3D
 
-New logo
+
+
 
