@@ -6,6 +6,7 @@
 
 New Games
 - maze3D
+- skifree.js
 
 
 
