@@ -8,7 +8,7 @@
 ---
 ## **FEATURED GAME**
 
-### - [feltman's idle mining](https://idlemining--exo-gamestudios.repl.co/) - the first game i made and finished 
+### - [feltman's idle mining](https://idlemining--exo-gamestudios.repl.co/) - the first game i made and finished.
 ---
 ### - [simple-farming](https://gamedump.github.io/simple-farming/) - pretty bare bones game i found, fun for 2 seconds.
 
