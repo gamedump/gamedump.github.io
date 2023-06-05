@@ -8,7 +8,7 @@
 ---
 ## **FEATURED GAME**
 
-### - [chess](https://gamedump.github.io/chess/) - it's chess, theres nothing much to explain
+### - [feltman's idle mining](https://idlemining--exo-gamestudios.repl.co/) - the first game i made and finished 
 ---
 ### - [simple-farming](https://gamedump.github.io/simple-farming/) - pretty bare bones game i found, fun for 2 seconds.
 
