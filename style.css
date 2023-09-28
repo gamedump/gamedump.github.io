@@ -33,6 +33,7 @@ h6 {
     color: #fff; /* Optional text color */
     text-align: left; /* Optional text alignment */
     padding: 10px; /* Optional padding for the text */
+    z-index: 999;
 }
 
 .extra-bottom-text {
