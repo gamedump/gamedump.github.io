@@ -1,0 +1,153 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #333; /* Dark background color */
+    color: #fff; /* White text color */
+    overflow: hidden;
+}
+
+h1, p {
+    margin: 10px 0; /* Adds some spacing between the elements */
+}
+
+h1, h6 {
+    margin: 0;
+}
+
+h6 {
+    margin-right: 35px
+}
+
+.bottom-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #000; /* Optional background color for better visibility */
+    color: #fff; /* Optional text color */
+    text-align: left; /* Optional text alignment */
+    padding: 10px; /* Optional padding for the text */
+}
+
+.extra-bottom-text {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    text-align: left;
+    padding-right: 30px;
+    padding-bottom: 10px
+}
+
+.top-text {
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: left;
+    padding: 10px
+}
+
+/* Styles for the header section */
+.header {
+    display: flex;
+    align-items: center; /* Vertically align the logo and title */
+}
+
+.logo {
+    margin-right: 5px; 
+    margin-bottom: -20px
+}
+
+
+.logo img {
+    width: 35px; 
+    height: auto; 
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+}
+
+.scrollable-box {
+    max-height: 300px;
+    max-width: 350px;
+    overflow: auto;
+    padding: 10px; 
+    padding-right: 20px;
+    border: 1px solid #ccc; 
+    border-radius: 15px;
+    background-color: #000;
+    overflow-x: hidden;
+}
+
+/* Style for the card container */
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 300px;
+    background-color: #333;
+    margin: 5px;
+}
+
+/* Style for the card content */
+.card-content {
+    display: flex;
+    align-items: center;
+}
+
+/* Style for the favicon */
+.card-favicon {
+    width: 32px; /* Adjust the width as needed */
+    height: 32px; /* Adjust the height as needed */
+    margin-right: 10px; /* Add spacing between the favicon and title */
+    background-color: #fff;
+    border: 1.5px solid #000;
+    border-radius: 5px;
+}
+
+/* Style for the title */
+.card-title {
+    font-size: 1.2rem; /* Adjust the font size as needed */
+    margin: 0;
+    text-align: left;
+}
+
+/* Style for the description */
+.card-description {
+    margin: 4px;
+    color: #777; /* Description text color */
+    text-align: left;
+}
+
+/* Style for the button */
+.card-button {
+    padding: 20px 20px;
+    background-color: #5438dc; /* Button background color */
+    color: #fff; /* Button text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    font-size: 18px
+}
+
+.card-button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: #357ded;
+    font-size: 18px;
+}
+
+.card-button:active {
+    font-size: 18px;
+    box-shadow: 0 0px 0px 0 rgba(0,0,0,0), 0 0px 0px 0 rgba(0,0,0,0);
+}
